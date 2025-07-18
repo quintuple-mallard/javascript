@@ -160,5 +160,4 @@ Object.hasOwn(cappucino, 'coolDown');
 ```
 
 [primitives]: https://developer.mozilla.org/en-US/docs/Glossary/Primitive
-[typeof null is object]: https://2ality.com/2013/10/typeof-null.html
 [prototype chain]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
