@@ -85,7 +85,7 @@ It can also survive false positives where an object isn't actually an `Array`, a
 
 Array.isArray({ __proto__: Array.prototype })
 // => false
-````
+```
 
 ````
 
@@ -117,7 +117,7 @@ const espresso = new Coffee();
 
 'isDarkMatter' in espresso;
 // => true
-````
+```
 
 ````exercism/note
 `in` will return `true` for inherited properties and methods.
