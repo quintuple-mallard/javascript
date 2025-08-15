@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "quintuple-mallard"
+  ],
+  "files": {
+    "solution": [
+      "async-await.js"
+    ],
+    "test": [
+      "async-await.spec.js"
+    ],
+    "exemplar": [
+      ".meta/exemplar.js"
+    ]
+  },
+  "blurb": "Learn about async and await"
+}

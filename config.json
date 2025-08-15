@@ -452,6 +452,18 @@
           "classes",
           "inheritance"
         ]
+      },
+      {
+        "slug": "async-await",
+        "name": "async-await",
+        "uuid": "574558b8-c20e-48c8-858a-0046bf5b3682",
+        "concepts": [
+          "async-await"
+        ],
+        "prerequisites": [
+          "promises",
+          "errors"
+        ]
       }
     ],
     "practice": [
@@ -2738,6 +2750,11 @@
       "uuid": "ee604998-ef59-4b9d-a288-355ba60587bc",
       "slug": "array-transformations",
       "name": "Array Transformations"
+    },
+    {
+      "uuid": "3d9dd073-b131-4f1b-9129-1e68a03ad974",
+      "slug": "async-await",
+      "name": "Async / Await"
     },
     {
       "uuid": "5b0ab681-f44f-4910-b2cf-0b1fcd19ba55",

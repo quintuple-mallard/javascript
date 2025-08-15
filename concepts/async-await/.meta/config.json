@@ -1,0 +1,5 @@
+{
+  "authors": ["quintuple-mallard"],
+  "contributors": [],
+  "blurb": "JavaScript's async and await operators are syntactic sugar for promises"
+}
