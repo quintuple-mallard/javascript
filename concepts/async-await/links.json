@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+    "description": "MDN: async function"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await",
+    "description": "MDN: await"
+  },
+  {
+    "url": "https://javascript.info/async-await",
+    "description": "javascript.info: async / await"
+  }
+]
